@@ -73,6 +73,15 @@
       "status": "rejected",
       "created_at": "2026-11-24T09:52:33.672Z",
       "id": 8
+    },
+    {
+      "name": "pra",
+      "from": "2026-11-26",
+      "to": "2026-11-29",
+      "reason": "Personal leave",
+      "status": "rejected",
+      "created_at": "2026-11-25T09:26:02.725Z",
+      "id": 9
     }
   ],
   "updates": [
