@@ -93,7 +93,15 @@
       "id": 2
     }
   ],
-  "doubts": [],
+  "doubts": [
+    {
+      "text": "what is reduce in javascript",
+      "topic": "JavaScript",
+      "date": "25 Nov 2026",
+      "status": "open",
+      "id": 1
+    }
+  ],
   "events": [],
   "resources": []
 }
