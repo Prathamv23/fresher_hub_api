@@ -102,13 +102,6 @@
       "id": 1
     },
     {
-      "text": "<img src=x onerror=alert('hi')>",
-      "topic": "JavaScript",
-      "date": "25 Nov 2026",
-      "status": "solved",
-      "id": 2
-    },
-    {
       "text": "html",
       "topic": "JavaScript",
       "date": "25 Nov 2026",
