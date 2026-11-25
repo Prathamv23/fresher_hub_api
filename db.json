@@ -78,13 +78,6 @@
   "updates": [
     {
       "date": "2026-11-24",
-      "name": "Nij",
-      "description": "daily-update page",
-      "blocked": "none",
-      "id": 1
-    },
-    {
-      "date": "2026-11-24",
       "name": "Jil",
       "description": "Completed cad design",
       "blocked": "when creating a layout for machine",
