@@ -100,6 +100,13 @@
       "date": "25 Nov 2026",
       "status": "open",
       "id": 1
+    },
+    {
+      "text": "<img src=x onerror=alert('hi')>",
+      "topic": "JavaScript",
+      "date": "25 Nov 2026",
+      "status": "open",
+      "id": 2
     }
   ],
   "events": [],
