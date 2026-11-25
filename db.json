@@ -84,7 +84,15 @@
       "id": 9
     }
   ],
-  "updates": [],
+  "updates": [
+    {
+      "date": "2026-11-25",
+      "name": "Nij",
+      "description": "Fresher hub \nfeature/daily update",
+      "blocked": "mobile view toggle",
+      "id": 1
+    }
+  ],
   "doubts": [],
   "events": [],
   "resources": []
