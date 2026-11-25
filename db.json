@@ -1,5 +1,12 @@
 {
-  "notices": [],
+  "notices": [
+    {
+      "title": "hello",
+      "message": "how are you?",
+      "date": "Wed Nov 25 2026",
+      "id": 1
+    }
+  ],
   "team": [],
   "leaves": [
     {
