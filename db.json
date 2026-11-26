@@ -43,7 +43,21 @@
       "id": 7
     }
   ],
-  "team": [],
+  "team": [
+    {
+      "name": "Thiya patel",
+      "track": "Node",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JS",
+        "React",
+        "Node"
+      ],
+      "image": "https://i.pravatar.cc/150?img=5",
+      "id": 1
+    }
+  ],
   "leaves": [
     {
       "name": "Pratham Vyas",
