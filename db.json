@@ -89,6 +89,18 @@
       ],
       "image": "",
       "id": 4
+    },
+    {
+      "name": "Harsh Vyash",
+      "track": "Java",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JS",
+        "React"
+      ],
+      "image": "",
+      "id": 5
     }
   ],
   "leaves": [
