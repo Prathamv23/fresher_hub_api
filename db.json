@@ -101,6 +101,19 @@
       ],
       "image": "",
       "id": 6
+    },
+    {
+      "name": "Sherya",
+      "track": "Java",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JS",
+        "Java",
+        "Tailwind"
+      ],
+      "image": "",
+      "id": 7
     }
   ],
   "leaves": [
