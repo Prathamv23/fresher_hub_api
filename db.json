@@ -148,5 +148,14 @@
     }
   ],
   "events": [],
-  "resources": []
+  "resources": [
+    {
+      "topic": "Git",
+      "title": "hello",
+      "url": "https://cdn.digialm.com//per/g01/pub/585/touchstone/AssessmentQPHTMLMode1//GATE2569/GATE2569S8D7647/17712331556249955/DA26S82010067_GATE2569S8D7647E2.html",
+      "description": "git complet knowlage",
+      "createdAt": "2026-11-26T03:59:31.205Z",
+      "id": 1
+    }
+  ]
 }
