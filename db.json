@@ -56,6 +56,17 @@
       ],
       "image": "https://i.pravatar.cc/150?img=5",
       "id": 1
+    },
+    {
+      "name": "Pragna Patel",
+      "track": "Java",
+      "skills": [
+        "HTML",
+        "JAVA",
+        "SPRING"
+      ],
+      "image": "https://i.pravatar.cc/150?img=1",
+      "id": 2
     }
   ],
   "leaves": [
