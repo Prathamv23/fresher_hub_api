@@ -101,6 +101,16 @@
       ],
       "image": "",
       "id": 6
+    },
+    {
+      "name": "aaa",
+      "track": "Node",
+      "skills": [
+        "JS",
+        "PYTHON"
+      ],
+      "image": "",
+      "id": 7
     }
   ],
   "leaves": [
