@@ -106,21 +106,6 @@
       "id": 7
     },
     {
-      "name": "aaa",
-      "track": "React",
-      "skills": [
-        "HTML",
-        "CSS",
-        "JS",
-        "React",
-        "Node",
-        "Tailwind",
-        "Bootstrap"
-      ],
-      "image": "",
-      "id": 8
-    },
-    {
       "name": "aaaasd",
       "track": "Laravel",
       "skills": [
