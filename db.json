@@ -158,19 +158,6 @@
       ],
       "image": "",
       "id": 11
-    },
-    {
-      "name": "aaabb",
-      "track": "Node",
-      "skills": [
-        "HTML",
-        "CSS",
-        "JS",
-        "React",
-        "Node"
-      ],
-      "image": "",
-      "id": 12
     }
   ],
   "leaves": [
