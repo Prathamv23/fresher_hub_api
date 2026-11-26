@@ -69,18 +69,6 @@
       "id": 2
     },
     {
-      "name": "Raj Shah",
-      "track": "React",
-      "skills": [
-        "HTML",
-        "CSS",
-        "JS",
-        "React"
-      ],
-      "image": "https://i.pravatar.cc/150?img=2",
-      "id": 3
-    },
-    {
       "name": "Vishal Dave",
       "track": "Python",
       "skills": [
