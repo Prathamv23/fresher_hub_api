@@ -101,6 +101,18 @@
       ],
       "image": "",
       "id": 5
+    },
+    {
+      "name": "Ritika Shah",
+      "track": "Laravel",
+      "skills": [
+        "HTML",
+        "LARAVEL",
+        "JS",
+        "React"
+      ],
+      "image": "",
+      "id": 6
     }
   ],
   "leaves": [
