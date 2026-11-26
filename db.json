@@ -101,6 +101,18 @@
       ],
       "image": "",
       "id": 6
+    },
+    {
+      "name": "dsdsa",
+      "track": "Laravel",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JS",
+        "React"
+      ],
+      "image": "",
+      "id": 7
     }
   ],
   "leaves": [
