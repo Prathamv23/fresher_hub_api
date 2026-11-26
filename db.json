@@ -79,6 +79,16 @@
       ],
       "image": "https://i.pravatar.cc/150?img=2",
       "id": 3
+    },
+    {
+      "name": "Vishal Dave",
+      "track": "Python",
+      "skills": [
+        "JS",
+        "PYTHON"
+      ],
+      "image": "",
+      "id": 4
     }
   ],
   "leaves": [
