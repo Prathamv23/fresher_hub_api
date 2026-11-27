@@ -400,6 +400,13 @@
       "time": "12:24",
       "place": "fvfv",
       "id": 7
+    },
+    {
+      "name": "Christmas",
+      "date": "2026-12-25",
+      "time": "18:57",
+      "place": "XYZ Hall",
+      "id": 8
     }
   ],
   "resources": [
