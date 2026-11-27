@@ -157,6 +157,16 @@
       ],
       "image": "",
       "id": 10
+    },
+    {
+      "name": "krunal Dave",
+      "track": "Java",
+      "skills": [
+        "JS",
+        "PYTHON"
+      ],
+      "image": "",
+      "id": 11
     }
   ],
   "leaves": [
