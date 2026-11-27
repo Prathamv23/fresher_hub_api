@@ -453,6 +453,13 @@
       "time": "19:00",
       "place": "Online",
       "id": 10
+    },
+    {
+      "name": "test",
+      "date": "2026-11-28",
+      "time": "18:10",
+      "place": "cloudus",
+      "id": 11
     }
   ],
   "resources": [
