@@ -146,6 +146,17 @@
       ],
       "image": "",
       "id": 9
+    },
+    {
+      "name": "Raj Vyash",
+      "track": "Laravel",
+      "skills": [
+        "HTML",
+        "CSS",
+        "PHP"
+      ],
+      "image": "",
+      "id": 10
     }
   ],
   "leaves": [
