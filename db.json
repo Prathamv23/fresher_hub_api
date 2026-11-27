@@ -414,6 +414,13 @@
       "time": "16:58",
       "place": "ABC Steet",
       "id": 9
+    },
+    {
+      "name": "xyz",
+      "date": "2026-11-28",
+      "time": "19:00",
+      "place": "Online",
+      "id": 10
     }
   ],
   "resources": [
