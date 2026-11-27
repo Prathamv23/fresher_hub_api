@@ -339,6 +339,13 @@
       "time": "12:05",
       "place": "Office",
       "id": 3
+    },
+    {
+      "name": "Diwali Celebration",
+      "date": "2026-11-27",
+      "time": "13:40",
+      "place": "Event Area",
+      "id": 4
     }
   ],
   "resources": [
