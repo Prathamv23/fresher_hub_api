@@ -325,6 +325,13 @@
       "time": "10:45",
       "place": "Conference Room",
       "id": 1
+    },
+    {
+      "name": "Project Discussion",
+      "date": "2026-11-30",
+      "time": "13:04",
+      "place": "Online",
+      "id": 2
     }
   ],
   "resources": [
