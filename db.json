@@ -318,7 +318,15 @@
       "id": 7
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "name": "Team Meeting",
+      "date": "2026-11-29",
+      "time": "10:45",
+      "place": "Conference Room",
+      "id": 1
+    }
+  ],
   "resources": [
     {
       "topic": "Python",
