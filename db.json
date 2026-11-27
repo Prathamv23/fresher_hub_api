@@ -407,6 +407,13 @@
       "time": "18:57",
       "place": "XYZ Hall",
       "id": 8
+    },
+    {
+      "name": "Halloween",
+      "date": "2027-01-24",
+      "time": "16:58",
+      "place": "ABC Steet",
+      "id": 9
     }
   ],
   "resources": [
